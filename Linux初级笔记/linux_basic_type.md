@@ -29,7 +29,7 @@ apt-get install emerald
 
 > ls -l 加上具体的位置（home可以展示不同账号的文件）
 
-![pic](picture/ls-shell.png)
+![pic](../picture/ls-shell.png)
 
 > ls -l /bin/e* 表示以e开头的文件
 
